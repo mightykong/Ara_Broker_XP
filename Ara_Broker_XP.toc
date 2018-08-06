@@ -1,0 +1,15 @@
+## Interface: 80000
+
+## Title: |cFFFFB366Ara|r - Broker - XP
+## Version: r4
+## SavedVariables: AraBrokerXPDB
+## Notes: A data broker plugin that display an ASCII representation of your experience bar.
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+libs\LibStub.lua
+libs\CallbackHandler-1.0.lua
+libs\LibDataBroker-1.1.lua
+
+Ara_Broker_XP.lua
