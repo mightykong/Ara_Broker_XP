@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 80200
 
 ## Title: Ara - Broker - XP
 ## Version: r6
